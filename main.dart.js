@@ -86947,7 +86947,7 @@ case 5:return A.M(null,r)
 case 1:return A.L(p,r)}})
 return A.N($async$xg,r)},
 M(a){var s=null
-return A.ack(s,A.arl(A.b([A.asH(300,A.arI(A.a41("bg.png",B.iq,s,s),B.TO),!0),B.kL,new A.hw(A.agq(B.aI,A.ax7(this.d.length,new A.Yt(this,a),t.l7),B.la,4,8),s)],t.p)))}}
+return A.ack(s,A.arl(A.b([A.asH(300,A.arI(A.a41("Article.png",B.iq,s,s),B.TO),!0),B.kL,new A.hw(A.agq(B.aI,A.ax7(this.d.length,new A.Yt(this,a),t.l7),B.la,4,8),s)],t.p)))}}
 A.Yq.prototype={
 $0(){var s=J.lp(this.b,new A.Yp(),t.a)
 this.a.d=A.a1(s,!0,s.$ti.i("ax.E"))},
